@@ -318,7 +318,7 @@ class _CnicfrontdesState extends State<Cnicfrontdes> {
 
 
                   /*ValueListenableBuilder(
-                    valueListenable:cnicBox!.listenable(),
+                    //valueListenable:cnicBox!.listenable(),
                     builder: (context,  Box<TodoModel> cnicBox , _ ){
 
 
